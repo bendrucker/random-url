@@ -1,7 +1,7 @@
 {
   "name": "random-url",
   "main": "./src",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a random URL",
   "license": "MIT",
   "repository": "bendrucker/random-url",
