@@ -1,6 +1,6 @@
 {
   "name": "random-url",
-  "main": "./src",
+  "main": "./release",
   "version": "1.0.0",
   "description": "Generate a random URL",
   "license": "MIT",
