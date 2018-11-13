@@ -22,10 +22,10 @@
     "http"
   ],
   "dependencies": {
-    "cuid": "~1.2.5"
+    "cuid": "~2.1.4"
   },
   "devDependencies": {
-    "babel": "^5.0.0",
+    "babel": "^6.23.0",
     "babel-tape-runner": "*",
     "tape": "^4.0.0",
     "standard": "bendrucker/standard#babel",
