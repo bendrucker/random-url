@@ -1,4 +1,4 @@
-# random-url [![Build Status](https://travis-ci.org/bendrucker/random-url.svg?branch=master)](https://travis-ci.org/bendrucker/random-url)
+# random-url [![Build Status](https://travis-ci.org/bendrucker/random-url.svg?branch=master)](https://travis-ci.org/bendrucker/random-url) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/random-url.svg)](https://greenkeeper.io/)
 
 > Generate a random URL
 
